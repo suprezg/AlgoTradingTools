@@ -191,3 +191,7 @@ localhost:2000/image-analysis/pattern-classify?ticker=ITC.NS&interval=1hr&api=yf
 python app.py
 ```
 Then use your browser, `curl`, or Postman at `http://localhost:2000`.
+
+## 📄 License
+[![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](LICENSE)
+This project is licensed under the MIT License. See the [LICENSE](LICENSE) file for details.
